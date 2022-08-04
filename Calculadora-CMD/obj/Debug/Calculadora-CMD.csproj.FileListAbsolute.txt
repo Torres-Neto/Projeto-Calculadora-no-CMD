@@ -1,0 +1,8 @@
+D:\Github\C-Sharp-Exercicios\Calculadora-CMD\bin\Debug\Calculadora-CMD.exe.config
+D:\Github\C-Sharp-Exercicios\Calculadora-CMD\bin\Debug\Calculadora-CMD.exe
+D:\Github\C-Sharp-Exercicios\Calculadora-CMD\bin\Debug\Calculadora-CMD.pdb
+D:\Github\C-Sharp-Exercicios\Calculadora-CMD\obj\Debug\Calculadora-CMD.csproj.AssemblyReference.cache
+D:\Github\C-Sharp-Exercicios\Calculadora-CMD\obj\Debug\Calculadora-CMD.csproj.SuggestedBindingRedirects.cache
+D:\Github\C-Sharp-Exercicios\Calculadora-CMD\obj\Debug\Calculadora-CMD.csproj.CoreCompileInputs.cache
+D:\Github\C-Sharp-Exercicios\Calculadora-CMD\obj\Debug\Calculadora-CMD.exe
+D:\Github\C-Sharp-Exercicios\Calculadora-CMD\obj\Debug\Calculadora-CMD.pdb
